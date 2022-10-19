@@ -1,2 +1,0 @@
-# .github
-OpenBB profile
