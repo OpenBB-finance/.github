@@ -1,4 +1,4 @@
-# Investment research for everyone, anywhere.
+# Investment Research for Everyone, Anywhere.
 
   <a href="https://openbb.co/">
     <img src="https://user-images.githubusercontent.com/25267873/196594828-37c9ef96-ccc6-47d5-aade-3ad224471b13.png" alt="Logo" width="1000">
