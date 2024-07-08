@@ -1,8 +1,10 @@
 # Investment Research for Everyone, Everywhere.
 
-  <a href="https://openbb.co/">
-    <img src="https://user-images.githubusercontent.com/25267873/196594828-37c9ef96-ccc6-47d5-aade-3ad224471b13.png" alt="Logo" width="1000">
-  </a>
+Try the first AI financial terminal for professionals at [pro.openbb.co](https://pro.openbb.co)
+
+<a href="https://openbb.co/">
+  <img src="https://openbb.co/api/image/2d1e22dd-ecda-4ee4-a14a-e5238fb4d5e9.png" alt="Logo" width="600">
+</a>
 
 ## Resources:
 - [Website](https://openbb.co/)
