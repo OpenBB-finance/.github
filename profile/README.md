@@ -1,11 +1,24 @@
-# Investment Research for Everyone, Everywhere.
+# OpenBB Workspace
 
-Try the first AI financial terminal for professionals at [pro.openbb.co](https://pro.openbb.co)
+While the OpenBB Platform is all about an integration to dozens of different data vendors, the interface is either Python or a CLI.
 
-<a href="https://openbb.co/">
-  <img src="https://openbb.co/api/image/2d1e22dd-ecda-4ee4-a14a-e5238fb4d5e9.png" alt="Logo" width="600">
+If you want an enterprise UI to visualize this datasets and use AI agents on top, you can find OpenBB Workspace at <https://pro.openbb.co>.
+
+<a href="https://pro.openbb.co">
+  <div align="center">
+  <img src="https://openbb-cms.directus.app/assets/f69b6aaf-0821-4bc8-a43c-715e03a924ef.png" alt="Logo" width="1000">
+  </div>
 </a>
 
+<br />
+
+Data integration:
+
+- You can learn more about adding data to the OpenBB workspace from the [docs](https://docs.openbb.co/workspace) or [this open source repository](https://github.com/OpenBB-finance/backends-for-openbb).
+
+AI Agents integration:
+
+- You can learn more about adding AI agents to the OpenBB workspace from [this open source repository](https://github.com/OpenBB-finance/agents-for-openbb).
 ## Resources:
 - [Website](https://openbb.co/)
 - [OpenBB Hub](https://my.openbb.co/app/hub)
